@@ -1,7 +1,7 @@
 /*  SCSS Document  */
 @import url("https://fonts.googleapis.com/css?family=Droid+Sans|Oswald");
 body {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-size: 16px;
   line-height: 1.3em;
   margin: 0;
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   color: #fff;
   position: absolute;
@@ -23,13 +23,13 @@ h1 {
 }
 
 h2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 1.5em;
   margin: 0 0 12px 0;
 }
 
 h3 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 1.2em;
 }
 
@@ -41,7 +41,7 @@ main {
 }
 
 main::after {
-  content: '';
+  content: "";
   display: block;
   clear: both;
 }
@@ -65,7 +65,7 @@ aside {
   width: 30%;
   float: left;
   margin: 50px 0px 0px 3%;
-  font-size: .9em;
+  font-size: 0.9em;
   line-height: 1.2em;
 }
 
@@ -92,5 +92,4 @@ aside > div h3 {
   width: 50%;
   height: inherit;
   background-color: #4e84c8;
-}
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
